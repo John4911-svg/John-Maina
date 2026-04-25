@@ -470,7 +470,7 @@ function myContact(){
           <p>
             View my detailed professional history and academic achievements.
           </p>
-          <a href="JOHN MAINA GITHOMI.docx" download class="download-btn-modern"
+          <a href="JOHN MAINA Curriculum Vitae.docx" download class="download-btn-modern"
             >Download CV</a
           >
         </div>
